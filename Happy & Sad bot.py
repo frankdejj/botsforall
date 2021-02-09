@@ -46,7 +46,3 @@ async def on_message(message):
 #   await message.channel.send('BAD')
 
 client.run(os.getenv('KEY'))
-
-26.53 
-
-https://www.youtube.com/watch?v=SPTfmiYiuok&feature=emb_title
